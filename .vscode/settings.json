@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["dotenv", "jsonable", "pydantic", "starlette", "uvicorn"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.formatting.provider": "none"
+}
